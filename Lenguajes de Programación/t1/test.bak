@@ -1,7 +1,25 @@
 #lang play
 (require "T1.rkt")
+;; Parte a)
+
+;; Parte b)
+(test (eval (compound 3 4 (simple 2))) 5)
+
+;; Parte c)
+
+;; Parte d)
+
+;; Parte e)
+
+;; Parte f)
+
+;; Parte g)
+
+;; Parte h)
+
 
 (print-only-errors #t)
+
 
 
 
